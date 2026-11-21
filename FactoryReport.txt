@@ -1,0 +1,16 @@
+FACTORY SIMULATION REPORT
+
+Widgets Arrived: 16
+Widgets Completed: 9
+
+MACHINE STATUS
+Machine A: Queue = 0
+Machine B: Queue = 0
+Machine C: Queue = 5
+
+Average Time in Factory: 150 minutes
+
+MAXIMUM QUEUE LENGTH
+Machine A: 1
+Machine B: 1
+Machine C: 5

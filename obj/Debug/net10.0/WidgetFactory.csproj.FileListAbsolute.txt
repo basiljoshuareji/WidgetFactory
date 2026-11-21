@@ -1,0 +1,14 @@
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\bin\Debug\net10.0\WidgetFactory.exe
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\bin\Debug\net10.0\WidgetFactory.deps.json
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\bin\Debug\net10.0\WidgetFactory.runtimeconfig.json
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\bin\Debug\net10.0\WidgetFactory.dll
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\bin\Debug\net10.0\WidgetFactory.pdb
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\obj\Debug\net10.0\WidgetFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\obj\Debug\net10.0\WidgetFactory.AssemblyInfoInputs.cache
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\obj\Debug\net10.0\WidgetFactory.AssemblyInfo.cs
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\obj\Debug\net10.0\WidgetFactory.csproj.CoreCompileInputs.cache
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\obj\Debug\net10.0\WidgetFactory.dll
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\obj\Debug\net10.0\refint\WidgetFactory.dll
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\obj\Debug\net10.0\WidgetFactory.pdb
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\obj\Debug\net10.0\WidgetFactory.genruntimeconfig.cache
+C:\Users\BasilJoshua\Desktop\c#-crashcourse\Saturday\WidgetFactory\obj\Debug\net10.0\ref\WidgetFactory.dll
